@@ -13,7 +13,7 @@ function preload() {
   splatSound = loadSound('media/splat.mp3');
   tromboneSound = loadSound('media/trombone.mp3');
   bgImage = loadImage('media/background photo.jpeg');
-  gameFont = loadFont("media/PressStart2p-Regular.ttf");
+  gameFont = loadFont('media/PressStart2p-Regular.ttf');
 }
 
 function setup() {
