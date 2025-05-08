@@ -8,5 +8,5 @@ The background music is a loop of Tone.js chords that increases gradually in pit
 Additionally, on the Arduino board there is a buzzer that sounds in the last 3 seconds of the game, as a countdown tha mimics the buzzer in a real basketball game when the timer runs out. Score a buzzer beater!  
 
 Here is a link to the gameplay: https://youtube.com/shorts/d_DGHA1oAmw?feature=share 
-
-![Arduino Board Setup] (final/Setup.JPG)
+ 
+ ![Arduino Board Setup](final/Setup.JPG)
