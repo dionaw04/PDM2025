@@ -1,4 +1,4 @@
-Shooters Shoot!
+## Shooters Shoot!
 
 This is a simple game where the user is instructed to chose one of three colored basketballs, then use the Arduino board button and joystick to shoot the ball into the air as it moves. The goal is to score as many points as possible before the time runs out! The user will initally be prompted to connect to the Arduino board before initalizing the game, and then that prompt will go away.
 
