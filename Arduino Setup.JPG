@@ -1,6 +1,0 @@
-This is the setup of the Arduino Board.   
-The joystick only utilizes A0, as it only controls the X-axis, and the other parts are plugged into ground and 5V.  
-
-The button is in Pin 4.  
-
-The buzzer is in Pin 8.
