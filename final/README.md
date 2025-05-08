@@ -9,4 +9,4 @@ Additionally, on the Arduino board there is a buzzer that sounds in the last 3 s
 
 Here is a link to the gameplay: https://youtube.com/shorts/d_DGHA1oAmw?feature=share 
  
- ![Arduino Board Setup](/Setup.JPG)
+ ![Arduino Board Setup](Setup.JPG)
