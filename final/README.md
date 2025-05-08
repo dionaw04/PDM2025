@@ -6,4 +6,7 @@ There is a 20 second timer in the left corner of the screen, and in the right co
 The user will know they scored when the backboard sprite changes and the basket sound plays.
 The background music is a loop of Tone.js chords that increases gradually in pitch as the timer runs out, as to get the player in the mood of scoring as many points as possible.
 Additionally, on the Arduino board there is a buzzer that sounds in the last 3 seconds of the game, as a countdown tha mimics the buzzer in a real basketball game when the timer runs out. Score a buzzer beater!  
+
 Here is a link to the gameplay: https://youtube.com/shorts/d_DGHA1oAmw?feature=share 
+
+![Arduino Board Setup] (final/Setup.JPG)
